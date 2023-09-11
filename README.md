@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello I´m Farah👋
+
+<hr/>
+
+I am a junior web developer! 👩‍💻
+
+- 🔭 I’m currently working on a calcualtor in React.
+- 🌱 I’m currently learning C#.
+
+Let´s connect! ✨
+
+<hr/>
 
 <!--
 **Farahalh/Farahalh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
