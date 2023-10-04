@@ -4,7 +4,7 @@
 
 I am a junior web developer! 👩‍💻
 
-- 🔭 I’m currently working on a calcualtor in React.
+- 🔭 I’m currently working on a calculator in React.
 - 🌱 I’m currently learning C#.
 
 Let´s connect! ✨
