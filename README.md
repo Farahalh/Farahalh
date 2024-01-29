@@ -2,10 +2,9 @@
 
 <hr/>
 
-I am a junior web developer! 👩‍💻
+I am a junior fullstack developer! 👩‍💻
 
 - 🔭 I’m currently working on a calculator in React.
-- 🌱 I’m currently learning .NET, C#
 
 Let´s connect! ✨
 
