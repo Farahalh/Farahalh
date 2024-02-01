@@ -4,7 +4,8 @@
 
 I am a junior fullstack developer! 👩‍💻
 
-- 🔭 I’m currently working on a calculator in React.
+- 🔭 I’m currently working on a calculator in React
+- 🌱 I’m currently learning TypeScript 
 
 Let´s connect! ✨
 
