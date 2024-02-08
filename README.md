@@ -5,7 +5,8 @@
 I am a junior fullstack developer! 👩‍💻
 
 - 🔭 I’m currently working on a calculator in React
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning TypeScript
+- ⚡ Favourite food: Ramen
 
 Let´s connect! ✨
 
