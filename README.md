@@ -2,7 +2,7 @@
 
 <hr/>
 
-I am a junior fullstack developer! 👩‍💻
+I am a junior developer! 👩‍💻
 
 - 🔭 I’m currently working on a calculator in React
 - 🌱 I’m currently learning TypeScript
