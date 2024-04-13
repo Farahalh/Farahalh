@@ -2,12 +2,14 @@
 
 <hr/>
 
-I am a junior developer! 👩‍💻
+Hey there! I'm Farah! 👋
+Welcome to my coding corner where lines of code meet creativity! I'm a junior developer, constantly working on new projects and expanding my coding horizons.
 
-- 🔭 I’m currently working on a calculator in React
-- 🌱 I’m currently learning TypeScript
+🔭 Currently, I'm diving deep into the world of React, creating a calculator that's as functional as it is stylish.
 
-Let´s connect! ✨
+🌱 But hey, the learning never stops! Right now, I'm also sharpening my skills in TypeScript, because who doesn't love a little type safety?
+
+Let's connect and code! ✨
 
 <hr/>
 
