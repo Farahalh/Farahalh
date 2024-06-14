@@ -2,8 +2,8 @@
 
 <hr/>
 
-Hey there! I'm Farah! 👋
-Welcome to my coding corner where lines of code meet creativity! I'm a junior developer, constantly working on new projects and expanding my coding knowledge.
+Hello, I'm Farah! 👋
+Welcome to my coding corner! I'm a junior developer, constantly working on new projects and expanding my coding knowledge.
 
 🔭 Currently, I'm diving into React, creating a calculator that's as functional as it is stylish.
 
