@@ -3,11 +3,7 @@
 <hr/>
 
 Hello, I'm Farah! 👋
-Welcome to my coding corner! I'm a junior developer, constantly working on new projects and expanding my coding knowledge.
-
-🔭 Currently, I'm diving into React, creating a calculator that's as functional as it is stylish.
-
-🌱 But the learning never stops! I'm also learning TypeScript, because who doesn't love a little type safety?
+Welcome to my coding corner! I'm a junior software developer, constantly working on new projects and expanding my coding knowledge.
 
 Let's connect and code! ✨
 
